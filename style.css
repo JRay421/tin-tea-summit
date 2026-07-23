@@ -44,12 +44,12 @@ body {
 
 .logo-carousel::before {
   left: 0;
-  background: linear-gradient(to right, #ffffff, rgba(255, 255, 255, 0));
+  background: linear-gradient(to right, #0d6cb9, rgba(13, 108, 185, 0));
 }
 
 .logo-carousel::after {
   right: 0;
-  background: linear-gradient(to left, #ffffff, rgba(255, 255, 255, 0));
+  background: linear-gradient(to left, #0d6cb9, rgba(13, 108, 185, 0));
 }
 
 .logo-track {
